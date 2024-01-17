@@ -18,7 +18,7 @@ Subsequently I then took advantage of the furlough and embarked on my career swi
 
 I now work as a Cloud Infrastructure Specialist and have turned my personal studies more towards Cyber Security/InfoSEC - where I am currently studying towards my AZ500 before moving on to the CCSK which I hope to begin in April.
 
-## Spoiler alert
+### Spoiler Alert
 
 * I will be documenting my learning for the AZ500 throughout my studies!
 * I have far too many courses to complete in my Udemy account.
